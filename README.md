@@ -1,2 +1,1 @@
-dicegamesrini-97.netlify.app
-30 point's to win the game
+[dicegamesrini-97.netlify.app](https://dicegamesrini-97.netlify.app/)https://dicegamesrini-97.netlify.app/
