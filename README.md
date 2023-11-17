@@ -1,1 +1,1 @@
-https://startling-bunny-d698fd.netlify.app
+dicegamesrini-97.netlify.app
